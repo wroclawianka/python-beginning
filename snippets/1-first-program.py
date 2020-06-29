@@ -1,4 +1,4 @@
 # 1.1
-name = 'Dorota';
+name = 'Dorota'
 print('Witaj ' + name + '!')
 
